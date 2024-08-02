@@ -1,3 +1,5 @@
+***Comprehensive Sales and Performance Analysis for Grocery Store***
+
 **Revenue Analysis**: The dashboard showcases total and average sales revenue, allowing for detailed tracking of overall and per-item sales performance. For instance, the average sales revenue per item can be monitored to identify trends and high-performing products.
 
 **Product Performance Metrics**: It provides insights into the number of distinct items sold, facilitating inventory management and highlighting the diversity of products offered. Additionally, it includes the average customer rating, with a detailed breakdown by item type and outlet characteristics, to assess customer satisfaction.
