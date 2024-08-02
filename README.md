@@ -1,4 +1,4 @@
-***Comprehensive Sales and Performance Analysis for Grocery Store***
+# ***Comprehensive Sales and Performance Analysis for Grocery Store***
 
 **Revenue Analysis**: The dashboard showcases total and average sales revenue, allowing for detailed tracking of overall and per-item sales performance. For instance, the average sales revenue per item can be monitored to identify trends and high-performing products.
 
